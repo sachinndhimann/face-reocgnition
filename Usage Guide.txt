@@ -1,0 +1,10 @@
+1.Install all the dependencies 
+2. for dlib , MS Build Tools(In windows) would be required, before installing any dependancy, install build tools , then install 
+all the dependencies
+3.Add Images in trainingImages:
+   FormatShouldBe: Name1, Name2,Name3 and so on....  AnotherName1, AnotherName2.. and so on...
+4. For Accurate Prediction atleast add 6 images of a same person.
+
+5. Post setting up pre-requisite , run python app.py to see real time face recognition.
+
+
